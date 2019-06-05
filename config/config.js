@@ -1,0 +1,1 @@
+module.exports.SEED = 'pelafo_con_pollo'
